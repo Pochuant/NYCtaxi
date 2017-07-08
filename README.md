@@ -25,7 +25,7 @@ Find the minimum point of yearly NYC transportation. Visualize the 2011, 2012, a
 
 For the general patterns, there are continuously periodical-fluctuated patterns. Hypothesize these patterns show the event or behavior people used to do. Most likely it represents something like **weekend or weekday**. Since it keeps happening, the suggestion for the total count of passenger fluctuate goes to weekend or weekday. 
 
-For the anomaly patterns, there are two decrease for each year. Those findings can be referenced to **Martin Luther King Jr. Day** in the early of the year and **Christmas** in the end of the year. 
+For the anomaly patterns, there are two big decrease for each year. Those findings can be referenced to **Martin Luther King Jr. Day** in the early of the year and **Christmas** in the end of the year. 
 
 For the **2011**, the minimum point was **8/28** and there were **37292** passengers. The reason for causing the trough was **Hurricane Irene** hits New York. For the **2012**, the minimum point was **10/29** and there were **186901** passengers. The reason for causing the trough in this year was New York was severely affected by **Hurricane Sandy**. For the **2013**, the minimum point was **8/4** and there were **283636** passengers. The reason for causing the trough was the **new regulation about green cabs** (boro taxis). 
 
