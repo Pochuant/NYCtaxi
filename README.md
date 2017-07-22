@@ -33,4 +33,4 @@ The supporting visualization can be reached in the nyc_taxi notebook file.
 
 ## License
 
-This project is licensed under the course project of CSCI585 at USC 
+This repository is credited to the course project of CSCI585 at USC 
