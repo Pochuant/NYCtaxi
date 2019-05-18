@@ -31,6 +31,6 @@ For the **2011**, the minimum point was **8/28** and there were **37292** passen
 
 The supporting visualization can be reached in the nyc_taxi notebook file.
 
-## License
+## Credits
 
 This repository is credited to the course project of CSCI585 at USC 
